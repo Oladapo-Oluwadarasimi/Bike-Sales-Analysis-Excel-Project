@@ -62,13 +62,7 @@ The dataset from the sheet named "bike_buyers" provides detailed information on 
 **Business Problem**: Does commute distance influence the likelihood of purchasing a bike?
 - **Pivot Table**: Rows: Commute Distance, Columns: Purchased Bike, Values: Count of Purchased Bike
 
-## Screenshot of Pivot Tables
-
-![Screenshot (48)](https://github.com/Oladapo-Oluwadarasimi/Global_Layoffs_2020-2023/assets/173706258/7ccf3255-6e5d-433e-beda-806a2b5f0004)
-
-![Screenshot (49)](https://github.com/Oladapo-Oluwadarasimi/Global_Layoffs_2020-2023/assets/173706258/a5427b9c-4194-47f0-ace2-5471ffe2c3e4)
-
-
+  
 ## Dashboard
 
 ![Screenshot (51)](https://github.com/Oladapo-Oluwadarasimi/Global_Layoffs_2020-2023/assets/173706258/40fc283a-13e8-41b3-8743-181583362f7b)
